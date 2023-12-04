@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "501315397279",
+    "firebase_url": "https://praktikum-mobileapp-57350-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "praktikum-mobileapp-57350",
+    "storage_bucket": "praktikum-mobileapp-57350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501315397279:android:210cfce38e9629fb5464aa",
+        "android_client_info": {
+          "package_name": "id.ac.usm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLZ4FA5c-hnzt3ealjESXdHLnh0ivDerw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
